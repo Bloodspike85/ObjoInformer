@@ -2,7 +2,7 @@
 
 WIP
 
-Dans l'optique de m'aventurer dans le développement d'android, j'ai décidé de réaliser une application pour mon travail.
+Pour m'aventurer dans le développement d'application android, j'ai décidé de réaliser une application pour mon travail.
 
 Cette application permet, à l'aide d'un fichier .csv, d'afficher simplement les informations sur le lieu.
 
